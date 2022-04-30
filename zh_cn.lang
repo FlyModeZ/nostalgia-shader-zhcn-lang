@@ -19,8 +19,8 @@ option.mistMieAnisotropy=非均匀水雾
 
 
 option.fogEnabled=雾
-option.fogStart=开始
-option.fogFalloff=散开
+option.fogStart=起点
+option.fogFalloff=终点
 
 screen.CLOUDS=云
 option.cloudVolumeEnabled=体积云
